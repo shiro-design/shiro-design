@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shiro-design
 - 👀 I’m interested in Data and Artificial Intelligence
-- 🌱 I'm currently a 2nd-year student of the Information Technology Department of the Ho Chi Minh City University of Education
+-     Experience with Linux.
+- 🌱 I'm currently a 3nd-year student of the Information Technology Department of the Ho Chi Minh City University of Education
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : ntb1080@gmail.com 
 
