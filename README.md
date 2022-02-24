@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiro-design
+- 👋 Hi, I’m @shiro-design, want to find for position Devops Intern
 - 👀 I’m interested in Data and Artificial Intelligence
 -     Experience with Linux.
 - 🌱 I'm currently a 3nd-year student of the Information Technology Department of the Ho Chi Minh City University of Education
