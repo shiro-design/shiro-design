@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shiro-design, want to find for position Devops Intern, Cloud Intern.
 - 👀 I’m interested in Data and Artificial Intelligence.
--     Experience with Linux.
+-     Experience in using Linux.
 - 📫 How to reach me : ntb1080@gmail.com .
 
 <!---
