@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shiro-design, want to find for position Devops Intern, Cloud Intern.
-- 👀 I’m interested in  Linux, CLoud and Artificial Intelligence.
--     Experience in using Linux - 3 years.
+- 👋 Hi, I’m @shiro-design, want to find for position Devops Fresher, Cloud Fresher.
+- 👀 I’m interested in  Linux, Cloud and Artificial Intelligence.
+-     Experience in using Linux.
 - 📫 How to reach me : ntb1080@gmail.com .
 
 <!---
