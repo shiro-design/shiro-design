@@ -1,5 +1,5 @@
 # 💫About Me :
-- 👋 Hi, I’m @shiro-design, want to find for position Devops Fresher, Cloud Fresher.
+- 👋 Hi, I’m @shiro-design.
 - 👀 I’m interested in  Linux, Cloud 
 - 📫 How to reach me : ngbinhlinux@gmail.com .
 
