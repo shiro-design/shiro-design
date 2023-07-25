@@ -1,6 +1,6 @@
 # 💫About Me :
 - 👋 Hi, I’m @shiro-design.
-- 👀 I’m interested in  Linux, Cloud 
+- 👀 I’m interested in  Linux, Cloud, Devops, AI
 - 📫 How to reach me : ngbinhlinux@gmail.com .
 
 ## 🌐Socials
