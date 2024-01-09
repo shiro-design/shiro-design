@@ -1,6 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I’m @shiro-design.
 - 👀 I’m interested in  Linux, Cloud, Devops, AI
+- Currently, i'm a infra engineer. 
 - 📫 How to reach me : ngbinhlinux@gmail.com .
 
 ## 🌐Socials
