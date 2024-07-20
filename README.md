@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I’m @shiro-design.
 - 👀 I’m interested in  Linux, Cloud, DevOps, AI
-- Currently, I'm a infra engineer 👨‍💻
+- Currently, I'm a Cloud engineer 👨‍💻
 - 📫 How to reach me : ntb1080@gmail.com.
 
 ## 🌐Socials
