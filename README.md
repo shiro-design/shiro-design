@@ -3,6 +3,7 @@
 - 👀 I’m interested in  Linux, Cloud, DevOps, AI
 - Currently, I'm a Cloud engineer 👨‍💻
 - 📫 How to reach me : ntb1080@gmail.com.
+- 📈 My Blog : [asystemn](https://asystemn.blogspot.com/)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyenbn1404) 
