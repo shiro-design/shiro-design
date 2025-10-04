@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I’m Binh Nguyen.
 - 👀 I’m interested in  Linux, Cloud, DevOps, AI
-- Currently, I'm a Devops engineer 👨‍💻
+- Currently, I'm a Devops engineer at Orange Logic 👨‍💻
 - 📫 How to reach me : ntb1080@gmail.com.
 - 📈 My Blog : [asystemn](https://asystemn.blogspot.com/)
 
