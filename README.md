@@ -1,5 +1,5 @@
 # 💫About Me :
-- 👋 Hi, I’m @shiro-design.
+- 👋 Hi, I’m Binh Nguyen.
 - 👀 I’m interested in  Linux, Cloud, DevOps, AI
 - Currently, I'm a Devops engineer 👨‍💻
 - 📫 How to reach me : ntb1080@gmail.com.
